@@ -1,0 +1,3 @@
+[submodule "modules/book-service"]
+	path = modules/book-service
+	url = https://github.com/mfadl1/books-service.git
