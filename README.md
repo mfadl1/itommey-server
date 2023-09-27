@@ -1,6 +1,6 @@
 # itommey-server
 
-ecommerce server using 100% typescript (Node js). This server was built by implementing the monorepo principle which supports a microservice architecture. This monorepo runs by using submodules to call other repository services
+server using 100% typescript (Node js). This server was built by implementing the monorepo principle which supports a microservice architecture. This monorepo runs by using submodules to call other repository services
 
 ## How to start
 
